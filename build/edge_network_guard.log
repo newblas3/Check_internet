@@ -67,3 +67,46 @@
 [2026-03-26 12:08:03] [INFO] Network is reachable through probe target: 8.8.8.8
 [2026-03-26 12:08:26] [INFO] Configuration reloaded successfully.
 [2026-03-26 12:08:36] [INFO] Starting connectivity check.
+[2026-03-26 12:08:48] [INFO] All probe targets failed. Attempting Wi-Fi recovery for SSID: SCUNET
+[2026-03-26 12:08:48] [INFO] Checking Wi-Fi interface: Intel(R) Wi-Fi 6E AX210 160MHz
+[2026-03-26 12:08:48] [INFO] Requested Wi-Fi radio enable for interface {D71403B5-9271-498B-90F7-4D48E114DB36}
+[2026-03-26 12:08:48] [INFO] Wi-Fi connect request sent for SSID: SCUNET
+[2026-03-26 12:08:56] [INFO] Network recovered after Wi-Fi reconnect.
+[2026-03-26 12:09:06] [INFO] Starting connectivity check.
+[2026-03-26 12:09:06] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 12:09:16] [INFO] Starting connectivity check.
+[2026-03-26 12:09:16] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 12:09:26] [INFO] Starting connectivity check.
+[2026-03-26 12:09:26] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 12:09:36] [INFO] Starting connectivity check.
+[2026-03-26 12:09:36] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 12:09:46] [INFO] Starting connectivity check.
+[2026-03-26 12:09:46] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 12:09:56] [INFO] Starting connectivity check.
+[2026-03-26 12:09:56] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 12:10:06] [INFO] Starting connectivity check.
+[2026-03-26 12:10:06] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 12:10:16] [INFO] Starting connectivity check.
+[2026-03-26 12:10:16] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 12:10:26] [INFO] Starting connectivity check.
+[2026-03-26 12:10:26] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 12:10:36] [INFO] Configuration reloaded successfully.
+[2026-03-26 12:10:39] [INFO] Launched elevated installer instance.
+[2026-03-26 12:10:39] [INFO] Scheduled task installed successfully.
+[2026-03-26 12:10:43] [INFO] Starting connectivity check.
+[2026-03-26 12:10:43] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 12:55:35] [INFO] Configuration reloaded successfully.
+[2026-03-26 13:55:35] [INFO] Starting connectivity check.
+[2026-03-26 13:55:35] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 14:55:35] [INFO] Starting connectivity check.
+[2026-03-26 14:55:35] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 15:55:35] [INFO] Starting connectivity check.
+[2026-03-26 15:55:35] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 16:55:35] [INFO] Starting connectivity check.
+[2026-03-26 16:55:35] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 17:55:35] [INFO] Starting connectivity check.
+[2026-03-26 17:55:35] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 18:55:35] [INFO] Starting connectivity check.
+[2026-03-26 18:55:35] [INFO] Network is reachable through probe target: 8.8.8.8
+[2026-03-26 19:39:02] [INFO] Starting connectivity check.
+[2026-03-26 19:39:03] [INFO] Network is reachable through probe target: 8.8.8.8
